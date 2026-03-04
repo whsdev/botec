@@ -1,0 +1,592 @@
+[
+  {
+    "id": "a-charlie-brown-christmas",
+    "title": "A Charlie Brown Christmas",
+    "year": 1965,
+    "franchise": "Peanuts",
+    "genres": ["Animation", "Holiday"],
+    "thumbnail": "/thumbnails/a-charlie-brown-christmas.webp",
+    "videoUrl": "https://drive.google.com/file/d/1e2UIrJdsz_0k5tp2v0EnPZiPv2ZQSTzg/preview",
+    "featured": false
+  },
+  {
+    "id": "avengers-endgame",
+    "title": "Avengers Endgame",
+    "year": 2019,
+    "franchise": "Marvel",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/avengers-endgame.webp",
+    "videoUrl": "https://drive.google.com/file/d/1ehi9tidOYHb1RMldxtBw6-L3UhyEKVm9/preview",
+    "featured": true
+  },
+  {
+    "id": "ant-man-and-the-wasp-quantumania",
+    "title": "Ant-Man and The Wasp: Quantumania",
+    "year": 2023,
+    "franchise": "Marvel",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/ant-man-and-the-wasp-quantumania.webp",
+    "videoUrl": "https://drive.google.com/file/d/1AW3Zm8256tzZ-37lmgYmIGse4knu8IdA/preview",
+    "featured": false
+  },
+  {
+    "id": "avengers-infinity-war",
+    "title": "Avengers Infinity War",
+    "year": 2018,
+    "franchise": "Marvel",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/avengers-infinity-war.webp",
+    "videoUrl": "https://drive.google.com/file/d/1oKDbw6zCdSRKRbABn6nKf_4LGsA3ftwL/preview",
+    "featured": false
+  },
+  {
+    "id": "a-goofy-movie",
+    "title": "A Goofy Movie",
+    "year": 1995,
+    "franchise": "Disney",
+    "genres": ["Animation", "Comedy"],
+    "thumbnail": "/thumbnails/a-goofy-movie.webp",
+    "videoUrl": "https://drive.google.com/file/d/1ify_EMaQW-ZAn2F0STztn2AGU-jE7aHL/preview",
+    "featured": false
+  },
+  {
+    "id": "an-extremely-goofy-movie",
+    "title": "An Extremely Goofy Movie",
+    "year": 2000,
+    "franchise": "Disney",
+    "genres": ["Animation", "Comedy"],
+    "thumbnail": "/thumbnails/an-extremely-goofy-movie.webp",
+    "videoUrl": "https://drive.google.com/file/d/1e4NzmeC84qest_9Wzmtvmi80brGPYnsN/preview",
+    "featured": false
+  },
+  {
+    "id": "alvin-and-the-chipmunks-2007",
+    "title": "Alvin and the Chipmunks 2007",
+    "year": 2007,
+    "franchise": "Alvin and the Chipmunks",
+    "genres": ["Animation", "Comedy"],
+    "thumbnail": "/thumbnails/alvin-and-the-chipmunks-2007.webp",
+    "videoUrl": "https://drive.google.com/file/d/1uCRRJZj1GAaweX996uHbF2zxPoessmGW/preview",
+    "featured": false
+  },
+  {
+    "id": "alvin-and-the-chipmunks-the-squeakquel",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "franchise": "Alvin and the Chipmunks",
+    "genres": ["Animation", "Comedy"],
+    "thumbnail": "/thumbnails/alvin-and-the-chipmunks-the-squeakquel.webp",
+    "videoUrl": "https://drive.google.com/file/d/1em55qHTtdrWD4Dox9CXs9r1042TLu_cu/preview",
+    "featured": false
+  },
+  {
+    "id": "alvin-and-the-chipmunks-chipwrecked",
+    "title": "Alvin and the Chipmunks: Chipwrecked",
+    "year": 2011,
+    "franchise": "Alvin and the Chipmunks",
+    "genres": ["Animation", "Comedy"],
+    "thumbnail": "/thumbnails/alvin-and-the-chipmunks-chipwrecked.webp",
+    "videoUrl": "https://drive.google.com/file/d/1LTKy48IbusfXsl5nSNDTd0M3A8B3aPke/preview",
+    "featured": false
+  },
+  {
+    "id": "a-christmas-story",
+    "title": "A Christmas Story",
+    "year": 1983,
+    "franchise": "Other",
+    "genres": ["Comedy", "Holiday"],
+    "thumbnail": "/thumbnails/a-christmas-story.webp",
+    "videoUrl": "https://drive.google.com/file/d/1nz29MUfftWx_MeBVh4Bn7TVXlUy_6BH2/preview",
+    "featured": false
+  },
+  {
+    "id": "annie",
+    "title": "Annie",
+    "year": 1982,
+    "franchise": "Other",
+    "genres": ["Musical", "Family"],
+    "thumbnail": "/thumbnails/annie.webp",
+    "videoUrl": "https://drive.google.com/file/d/1GYQqHUdyWMNQJKj4Sa8SGW0ZRX32D5og/preview",
+    "featured": false
+  },
+  {
+    "id": "a-bugs-life",
+    "title": "A Bugs Life",
+    "year": 1998,
+    "franchise": "Pixar",
+    "genres": ["Animation", "Adventure"],
+    "thumbnail": "/thumbnails/a-bugs-life.webp",
+    "videoUrl": "https://drive.google.com/file/d/1AIq4OqiMWiY9zZSayF5VID7pfTwSH6BM/preview",
+    "featured": false
+  },
+  {
+    "id": "a-christmas-carol",
+    "title": "A Christmas Carol",
+    "year": 2009,
+    "franchise": "Other",
+    "genres": ["Animation", "Holiday"],
+    "thumbnail": "/thumbnails/a-christmas-carol.webp",
+    "videoUrl": "https://drive.google.com/file/d/1hi5sfVVAYK5AsMis11QjD5JLvL5aUY0h/preview",
+    "featured": false
+  },
+  {
+    "id": "batman",
+    "title": "Batman",
+    "year": 1989,
+    "franchise": "DC",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/batman.webp",
+    "videoUrl": "https://drive.google.com/file/d/1P8z8U0j5UHxqTq0taTj18TgG6nZwSKYd/preview",
+    "featured": false
+  },
+  {
+    "id": "batman-returns",
+    "title": "Batman Returns",
+    "year": 1992,
+    "franchise": "DC",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/batman-returns.webp",
+    "videoUrl": "https://drive.google.com/file/d/1aeYtz38ljtxCCtuVs4x0zuUh2TWKf-K6/preview",
+    "featured": false
+  },
+  {
+    "id": "batman-forever",
+    "title": "Batman Forever",
+    "year": 1995,
+    "franchise": "DC",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/batman-forever.webp",
+    "videoUrl": "https://drive.google.com/file/d/1YFYuZeG8EXxNkPdB7jIIGOFm7ULi349r/preview",
+    "featured": false
+  },
+  {
+    "id": "batman-and-robin",
+    "title": "Batman & Robin",
+    "year": 1997,
+    "franchise": "DC",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/batman-and-robin.webp",
+    "videoUrl": "https://drive.google.com/file/d/1uMzsWkDLeiE0X7M0rm5EUUx3y26yzhc2/preview",
+    "featured": false
+  },
+  {
+    "id": "the-dark-knight-rises",
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "franchise": "DC",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/the-dark-knight-rises.webp",
+    "videoUrl": "https://drive.google.com/file/d/1ssHaJjHmu-V5fTC4_AoyABD_KYB1dkNX/preview",
+    "featured": false
+  },
+  {
+    "id": "batman-begins",
+    "title": "Batman Begins",
+    "year": 2005,
+    "franchise": "DC",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/batman-begins.webp",
+    "videoUrl": "https://drive.google.com/file/d/1ZegfkrD50sGDUVJ-4d9IiBpR0MTmdphx/preview",
+    "featured": false
+  },
+  {
+    "id": "black-panther",
+    "title": "Black Panther",
+    "year": 2018,
+    "franchise": "Marvel",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/black-panther.webp",
+    "videoUrl": "https://drive.google.com/file/d/1wdUOiz7tI3R5vTz779h7CesAW5h0kUh1/preview",
+    "featured": false
+  },
+  {
+    "id": "black-panther-wakanda-forever",
+    "title": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "franchise": "Marvel",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/black-panther-wakanda-forever.webp",
+    "videoUrl": "https://drive.google.com/file/d/198qUcefIK54KnZzxAx6_L8u7l37oCfhK/preview",
+    "featured": false
+  },
+  {
+    "id": "the-batman-2022",
+    "title": "The Batman 2022",
+    "year": 2022,
+    "franchise": "DC",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/the-batman-2022.webp",
+    "videoUrl": "https://drive.google.com/file/d/16si_yvGyZn5mgvNIHil5xXOR3I8RaTKb/preview",
+    "featured": false
+  },
+  {
+    "id": "the-dark-knight",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "franchise": "DC",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/the-dark-knight.webp",
+    "videoUrl": "https://drive.google.com/file/d/1CZvw1MgSLVQR9Z9L8qpl8j1oI7DnMDWr/preview",
+    "featured": false
+  },
+  {
+    "id": "batman-the-return-of-the-joker",
+    "title": "Batman: The Return of the Joker",
+    "year": 2000,
+    "franchise": "DC",
+    "genres": ["Animation", "Superhero"],
+    "thumbnail": "/thumbnails/batman-the-return-of-the-joker.webp",
+    "videoUrl": "https://drive.google.com/file/d/1wEmEjdaO0dp1nonCewG8URl6YsQOk0ru/preview",
+    "featured": false
+  },
+  {
+    "id": "beetlejuice",
+    "title": "Beetlejuice",
+    "year": 1988,
+    "franchise": "Other",
+    "genres": ["Comedy", "Fantasy"],
+    "thumbnail": "/thumbnails/beetlejuice.webp",
+    "videoUrl": "https://drive.google.com/file/d/1fs2-oBGADuUeepkLX2V3zxNNUstHvBTs/preview",
+    "featured": false
+  },
+  {
+    "id": "beetlejuice-beetlejuice",
+    "title": "Beetlejuice Beetlejuice",
+    "year": 2024,
+    "franchise": "Other",
+    "genres": ["Comedy", "Fantasy"],
+    "thumbnail": "/thumbnails/beetlejuice-beetlejuice.webp",
+    "videoUrl": "https://drive.google.com/file/d/1OsCtW4NUV94utDNxmFejUFoH6euf8Ind/preview",
+    "featured": false
+  },
+  {
+    "id": "the-boss-baby",
+    "title": "The boss baby",
+    "year": 2017,
+    "franchise": "Other",
+    "genres": ["Animation", "Comedy"],
+    "thumbnail": "/thumbnails/the-boss-baby.webp",
+    "videoUrl": "https://drive.google.com/file/d/1PapBJzYo5d6QoK8sFA71ksVkdjYfud2V/preview",
+    "featured": false
+  },
+  {
+    "id": "the-boss-baby-family-business",
+    "title": "The Boss Baby: Family Business",
+    "year": 2021,
+    "franchise": "Other",
+    "genres": ["Animation", "Comedy"],
+    "thumbnail": "/thumbnails/the-boss-baby-family-business.webp",
+    "videoUrl": "https://drive.google.com/file/d/1aiZMcnKPiHlmK9D0HpQRKd-SueENFFFC/preview",
+    "featured": false
+  },
+  {
+    "id": "the-bad-guys",
+    "title": "The Bad Guys",
+    "year": 2022,
+    "franchise": "Other",
+    "genres": ["Animation", "Comedy"],
+    "thumbnail": "/thumbnails/the-bad-guys.webp",
+    "videoUrl": "https://drive.google.com/file/d/1Ep4I8JdvH8NlbcqxiNMA8c7U_UAOpewT/preview",
+    "featured": false
+  },
+  {
+    "id": "bad-guys-2",
+    "title": "Bad Guys 2",
+    "year": 2025,
+    "franchise": "Other",
+    "genres": ["Animation", "Comedy"],
+    "thumbnail": "/thumbnails/bad-guys-2.webp",
+    "videoUrl": "https://drive.google.com/file/d/14i4ehISzm0r3u-zjYK5BdHBUSTEqCb8z/preview",
+    "featured": false
+  },
+  {
+    "id": "blue-beetle",
+    "title": "Blue Beetle",
+    "year": 2023,
+    "franchise": "DC",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/blue-beetle.webp",
+    "videoUrl": "https://drive.google.com/file/d/1T2XMXtDAlohPcGdi-u2p9zXF9Os9zkY1/preview",
+    "featured": false
+  },
+  {
+    "id": "back-to-the-future",
+    "title": "Back to the Future",
+    "year": 1985,
+    "franchise": "Other",
+    "genres": ["Sci-Fi", "Adventure"],
+    "thumbnail": "/thumbnails/back-to-the-future.webp",
+    "videoUrl": "https://drive.google.com/file/d/1RvzJFPZbr-jM8EKjMFUb56QLDHQ4LTBV/preview",
+    "featured": false
+  },
+  {
+    "id": "barbie",
+    "title": "Barbie",
+    "year": 2023,
+    "franchise": "Other",
+    "genres": ["Comedy", "Fantasy"],
+    "thumbnail": "/thumbnails/barbie.webp",
+    "videoUrl": "https://drive.google.com/file/d/1K88LvZ6q9KRwsdiVQ72Wrh5DQqWVLkd3/preview",
+    "featured": false
+  },
+  {
+    "id": "birds-of-prey",
+    "title": "Birds of Prey",
+    "year": 2020,
+    "franchise": "DC",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/birds-of-prey.webp",
+    "videoUrl": "https://drive.google.com/file/d/1AShi8tLLzbPiPO6vDokf8ew-qBbzh5Pb/preview",
+    "featured": false
+  },
+  {
+    "id": "boyz-n-the-hood",
+    "title": "Boyz N The Hood",
+    "year": 1991,
+    "franchise": "Other",
+    "genres": ["Drama", "Crime"],
+    "thumbnail": "/thumbnails/boyz-n-the-hood.webp",
+    "videoUrl": "https://drive.google.com/file/d/1fCv2dJuy8k_NQWAxbNRxqW0_zKetF-uy/preview",
+    "featured": false
+  },
+  {
+    "id": "the-blackening",
+    "title": "The Blackening",
+    "year": 2022,
+    "franchise": "Other",
+    "genres": ["Comedy", "Horror"],
+    "thumbnail": "/thumbnails/the-blackening.webp",
+    "videoUrl": "https://drive.google.com/file/d/1VBG7WXqeiZ3BSvPuWUPCL1_iF9znvPI5/preview",
+    "featured": false
+  },
+  {
+    "id": "the-black-phone",
+    "title": "The Black phone",
+    "year": 2021,
+    "franchise": "Other",
+    "genres": ["Horror", "Thriller"],
+    "thumbnail": "/thumbnails/the-black-phone.webp",
+    "videoUrl": "https://drive.google.com/file/d/140S8bCV6Ht2WticzegM_jfRayS2_Mvn_/preview",
+    "featured": false
+  },
+  {
+    "id": "the-black-phone-2",
+    "title": "The Black Phone 2",
+    "year": 2025,
+    "franchise": "Other",
+    "genres": ["Horror", "Thriller"],
+    "thumbnail": "/thumbnails/the-black-phone-2.webp",
+    "videoUrl": "https://drive.google.com/file/d/1Nnkb35gi9f-jc4LvwVDUq8MTLur7mK3L/preview",
+    "featured": false
+  },
+  {
+    "id": "coraline",
+    "title": "Coraline",
+    "year": 2009,
+    "franchise": "Other",
+    "genres": ["Animation", "Fantasy"],
+    "thumbnail": "/thumbnails/coraline.webp",
+    "videoUrl": "https://drive.google.com/file/d/1TFiL16cNmQmG5pSi-s6od4xgymFqK1kJ/preview",
+    "featured": false
+  },
+  {
+    "id": "captain-america-civil-war",
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "franchise": "Marvel",
+    "genres": ["Superhero", "Action"],
+    "thumbnail": "/thumbnails/captain-america-civil-war.webp",
+    "videoUrl": "https://sites.google.com/view/ttbr-11-777-ggbht/moves/captain-america-civil-war",
+    "featured": false
+  },
+  {
+    "id": "creed",
+    "title": "Creed",
+    "year": 2015,
+    "franchise": "Rocky",
+    "genres": ["Drama", "Sports"],
+    "thumbnail": "/thumbnails/creed.webp",
+    "videoUrl": "https://drive.google.com/file/d/1w9nVBGOKDax-xCr-caqekW4hcjRUQWZA/preview",
+    "featured": false
+  },
+  {
+    "id": "creed-2",
+    "title": "Creed 2",
+    "year": 2018,
+    "franchise": "Rocky",
+    "genres": ["Drama", "Sports"],
+    "thumbnail": "/thumbnails/creed-2.webp",
+    "videoUrl": "https://drive.google.com/file/d/1KnW-KW6LV-fH0S0R_2sbsEKkKhSFK-OP/preview",
+    "featured": false
+  },
+  {
+    "id": "creed-3",
+    "title": "Creed 3",
+    "year": 2023,
+    "franchise": "Rocky",
+    "genres": ["Drama", "Sports"],
+    "thumbnail": "/thumbnails/creed-3.webp",
+    "videoUrl": "https://drive.google.com/file/d/1j8pGyNx9PHk_Gicns9JlDaX82qBIi1_m/preview",
+    "featured": false
+  },
+  {
+    "id": "coco",
+    "title": "Coco",
+    "year": 2017,
+    "franchise": "Pixar",
+    "genres": ["Animation", "Fantasy"],
+    "thumbnail": "/thumbnails/coco.webp",
+    "videoUrl": "https://drive.google.com/file/d/194M4dGCwh1hTxVM1-_axnLSdt4trnbK2/preview",
+    "featured": false
+  },
+  {
+    "id": "cars",
+    "title": "Cars",
+    "year": 2006,
+    "franchise": "Pixar",
+    "genres": ["Animation", "Adventure"],
+    "thumbnail": "/thumbnails/cars.webp",
+    "videoUrl": "https://drive.google.com/file/d/1RoWQ2LZecPYvsZ48Sah7_xBvZzEHcXL1/preview",
+    "featured": false
+  },
+  {
+    "id": "cars-2",
+    "title": "Cars 2",
+    "year": 2011,
+    "franchise": "Pixar",
+    "genres": ["Animation", "Adventure"],
+    "thumbnail": "/thumbnails/cars-2.webp",
+    "videoUrl": "https://drive.google.com/file/d/1YinG1kmgSqWI5kQwfDsQO6vK1xzM6K7o/preview",
+    "featured": false
+  },
+  {
+    "id": "childs-play",
+    "title": "Child's Play",
+    "year": 1988,
+    "franchise": "Child's Play",
+    "genres": ["Horror", "Thriller"],
+    "thumbnail": "/thumbnails/childs-play.webp",
+    "videoUrl": "https://drive.google.com/file/d/1FPO2K8Oqb1O3qm1qb57NhZHhaGCvQjAz/preview",
+    "featured": false
+  },
+  {
+    "id": "childs-play-2",
+    "title": "Child's Play 2",
+    "year": 1990,
+    "franchise": "Child's Play",
+    "genres": ["Horror", "Thriller"],
+    "thumbnail": "/thumbnails/childs-play-2.webp",
+    "videoUrl": "https://drive.google.com/file/d/1NXrR22Ja1iaa3PcidheWe6dKmK80A2em/preview",
+    "featured": false
+  },
+  {
+    "id": "bride-of-chucky",
+    "title": "Bride of Chucky",
+    "year": 1998,
+    "franchise": "Child's Play",
+    "genres": ["Horror", "Comedy"],
+    "thumbnail": "/thumbnails/bride-of-chucky.webp",
+    "videoUrl": "https://drive.google.com/file/d/1bdeH-TLFYRBpC0sp3eIWNGocKlqPp5mw/preview",
+    "featured": false
+  },
+  {
+    "id": "childs-play-2019",
+    "title": "Child's Play 2019",
+    "year": 2019,
+    "franchise": "Child's Play",
+    "genres": ["Horror", "Thriller"],
+    "thumbnail": "/thumbnails/childs-play-2019.webp",
+    "videoUrl": "https://drive.google.com/file/d/1D-j3sPp4-DQmHs_Ce9Nxya0GnyAmEAQM/preview",
+    "featured": false
+  },
+  {
+    "id": "corpse-bride",
+    "title": "Corpse Bride",
+    "year": 2005,
+    "franchise": "Other",
+    "genres": ["Animation", "Fantasy"],
+    "thumbnail": "/thumbnails/corpse-bride.webp",
+    "videoUrl": "https://drive.google.com/file/d/1AHqrYm4cItyiEquPHJV5z3H81Cc0cCfI/preview",
+    "featured": false
+  },
+  {
+    "id": "captain-underpants",
+    "title": "Captain Underpants",
+    "year": 2017,
+    "franchise": "Other",
+    "genres": ["Animation", "Comedy"],
+    "thumbnail": "/thumbnails/captain-underpants.webp",
+    "videoUrl": "https://drive.google.com/file/d/1BW7yv_y4uk99Nsjbc--z1beQ_bYYmUXk/preview",
+    "featured": false
+  },
+  {
+    "id": "seed-of-chucky",
+    "title": "Seed of Chucky",
+    "year": 2004,
+    "franchise": "Child's Play",
+    "genres": ["Horror", "Comedy"],
+    "thumbnail": "/thumbnails/seed-of-chucky.webp",
+    "videoUrl": "https://drive.google.com/file/d/1ibotaqumpENLsX67ZGbKzZcAStYmezqs/preview",
+    "featured": false
+  },
+  {
+    "id": "curse-of-chucky",
+    "title": "Curse of Chucky",
+    "year": 2013,
+    "franchise": "Child's Play",
+    "genres": ["Horror", "Thriller"],
+    "thumbnail": "/thumbnails/curse-of-chucky.webp",
+    "videoUrl": "https://drive.google.com/file/d/1iREiS873cIR4Wq3nKV-uBwaJVWbqIZe0/preview",
+    "featured": false
+  },
+  {
+    "id": "cult-of-chucky",
+    "title": "Cult of Chucky",
+    "year": 2017,
+    "franchise": "Child's Play",
+    "genres": ["Horror", "Thriller"],
+    "thumbnail": "/thumbnails/cult-of-chucky.webp",
+    "videoUrl": "https://drive.google.com/file/d/1JHK4oNMMg_RLU-IfCRkIA6L-1T9BJEVd/preview",
+    "featured": false
+  },
+  {
+    "id": "childs-play-3",
+    "title": "Child's Play 3",
+    "year": 1991,
+    "franchise": "Child's Play",
+    "genres": ["Horror", "Thriller"],
+    "thumbnail": "/thumbnails/childs-play-3.webp",
+    "videoUrl": "https://drive.google.com/file/d/1gEP2FcL30yLVaUw_J9As7Jum_rJPZlDt/preview",
+    "featured": false
+  },
+  {
+    "id": "coat-of-many-colors",
+    "title": "Coat of Many Colors",
+    "year": 2015,
+    "franchise": "Other",
+    "genres": ["Drama", "Family"],
+    "thumbnail": "/thumbnails/coat-of-many-colors.webp",
+    "videoUrl": "https://sites.google.com/view/ttbr-11-777-ggbht/moves/dolly-partons-coat-of-many-colors",
+    "featured": false
+  },
+  {
+    "id": "circle-of-love",
+    "title": "Circle of Love",
+    "year": 2016,
+    "franchise": "Other",
+    "genres": ["Drama", "Holiday"],
+    "thumbnail": "/thumbnails/circle-of-love.webp",
+    "videoUrl": "https://sites.google.com/view/ttbr-11-777-ggbht/moves/dolly-partons-christmas-of-many-colors-circle-of-love",
+    "featured": false
+  },
+  {
+    "id": "the-conjuring",
+    "title": "The Conjuring",
+    "year": 2013,
+    "franchise": "The Conjuring",
+    "genres": ["Horror", "Thriller"],
+    "thumbnail": "/thumbnails/the-conjuring.webp",
+    "videoUrl": "https://drive.google.com/file/d/1i3WiDufrutDICVMnzJI0SYHQirwU0MIR/preview",
+    "featured": false
+  }
+]
